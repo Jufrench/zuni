@@ -1,0 +1,1 @@
+console.log('%cyo yo yo!', 'color:fuchsia');
